@@ -1,0 +1,29 @@
+{
+  "name": "nodefun",
+  "version": "1.0.0",
+  "description": "please dont use this",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgemanzo/nodeFun.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgemanzo/nodeFun/issues"
+  },
+  "homepage": "https://github.com/jorgemanzo/nodeFun#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql2": "^1.6.4"
+  }
+}
